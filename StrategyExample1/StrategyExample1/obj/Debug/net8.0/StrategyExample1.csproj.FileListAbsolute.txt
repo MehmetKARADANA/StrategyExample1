@@ -1,0 +1,14 @@
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\bin\Debug\net8.0\StrategyExample1.exe
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\bin\Debug\net8.0\StrategyExample1.deps.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\bin\Debug\net8.0\StrategyExample1.runtimeconfig.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\bin\Debug\net8.0\StrategyExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\bin\Debug\net8.0\StrategyExample1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\StrategyExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\StrategyExample1.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\StrategyExample1.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\StrategyExample1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\StrategyExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\refint\StrategyExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\StrategyExample1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\StrategyExample1.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Strategy\StrategyExample1\StrategyExample1\obj\Debug\net8.0\ref\StrategyExample1.dll
